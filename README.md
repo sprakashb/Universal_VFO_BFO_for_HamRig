@@ -12,3 +12,5 @@ A Si5351 based VFO + BFO for any single conversion ham rig was designed and its 
 7. Saving to memory.
 
 ![IMG_20180826_153741477_LL](https://github.com/user-attachments/assets/19047267-157b-4989-b68f-707d6a27cb93)
+
+The manual.pdf file is for an older version but most of the feaures are same/similar. I will try to update it asap.
